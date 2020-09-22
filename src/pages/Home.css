@@ -1,0 +1,9 @@
+.home__section {
+	display: flex;
+	padding: 210px 210px 210px 90px;
+}
+
+.sidecard {
+	display: flex;
+	flex-direction: column;
+}
