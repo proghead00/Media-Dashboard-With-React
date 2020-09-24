@@ -1,4 +1,4 @@
-# Media Dashboard With ReactJS and React Router
+# Media Dashboard With ReactJS - React Router
 ## A simple dashboard I made with ReactJS for an internship introductory project
 
 ## 💿 [Live Site](https://mediadashboard.netlify.app/) 💿
